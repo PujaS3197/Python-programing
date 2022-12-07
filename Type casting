@@ -1,0 +1,25 @@
+####### Type casting #######
+
+
+print(type(float(a)))
+
+#
+print(type(b))
+
+print(type(int(b)))
+
+print(int(b))
+
+print(d)
+
+print(type(d))
+
+#print(type(int(d)))------->> #This does not work coz string is not converted into int or float
+
+print((str(b)))
+
+bool(0)
+bool(1)
+
+int(True)
+int(False)
