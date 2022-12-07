@@ -1,0 +1,18 @@
+#Numeric types in Python
+#1.Int 2.Float 3.Boolean
+#string is another type 
+#str
+
+########### type checking #########
+
+a=(2)
+type(a)
+
+b=(5.6)
+type(b)
+
+c=True
+type(c)
+
+d=('panda loves bunny')
+type(d)
